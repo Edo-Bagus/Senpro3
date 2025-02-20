@@ -9,7 +9,7 @@
 ## Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
 ## Nama Produk
-CulinaCraft
+**CulinaCraft**
 
 ## Jenis Produk
 Aplikasi web dan mobile berbasis kecerdasan buatan (AI) yang menyediakan rekomendasi resep masakan yang dipersonalisasi sesuai dengan preferensi pengguna, serta membantu mengurangi pemborosan makanan dan mengatur pola makan sehat.
@@ -44,4 +44,3 @@ CulinaCraft menggunakan AI dan machine learning untuk memberikan rekomendasi res
 - **Kelebihan**: Database makanan yang luas, pelacakan kalori dan makronutrien yang detail, integrasi dengan perangkat lain.
 - **Kekurangan**: Fokus pada pelacakan kalori daripada edukasi memasak, kurangnya rekomendasi resep.
 - **Keunggulan Kompetitif**: Pelacakan kalori dan nutrisi yang sangat detail, integrasi perangkat kebugaran, komunitas dukungan.
-
