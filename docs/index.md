@@ -60,26 +60,26 @@ Produk ini bertujuan untuk membantu pengguna dalam hal memasak, seperti mencari 
 
 ## Functional Requirements
 
-### Manajemen Pengguna
+### 1. Manajemen Pengguna
 - Pengguna dapat membuat akun baru dengan email dan kata sandi
 - Pengguna dapat login menggunakan email dan kata sandi
 - Pengguna dapat memperbarui profil dan resep favorit
-- 
-### Rekomendasi Resep Berbasis AI/ML
+  
+### 2. Rekomendasi Resep Berbasis AI/ML
 - Pengguna dapat memasukkan bahan-bahan yang tersedia untuk dimasak dan sistem dapat menyimpan input untuk memberikan rekomendasi resep
 - Sistem memberikan rekomendasi resep berdasarkan preferensi, riwayat, dan bahan yang dimiliki pengguna yang didapatkan melalui algoritma AI/ML
 - Pengguna dapat mencari resep berdasarkan kategori dan sistem dapat menampilkan resep yang sesuai
 - Pengguna dapat melihat detail dari suatu resep, seperti bahan-bahan, alat-alat, langkah-langkah, waktu persiapan dan memasak, serta informasi kalori
-- 
-### Chatbot AI sebagai Asisten
+  
+### 3. Chatbot AI sebagai Asisten
 - Chatbot AI dapat memberi panduan memasak lebih detail dan menjawab pertanyaan spesifik terkait suatu resep
-- 
-### Manajemen Bahan dan Resep
+  
+### 4. Manajemen Bahan dan Resep
 - Pengguna dapat menyimpan bahan-bahan yang dimiliki untuk memasak sehingga sistem juga dapat memberikan rekomendasi seputar bahan tersebut.
 - Pengguna dapat menyimpan resep favorit untuk dimasak ulang di kemudian hari.
 - Pengguna dapat melihat riwayat pencarian resep yang telah disimpan oleh sistem
-- 
-### Dashboard Personalisasi
+
+### 5. Dashboard Personalisasi
 - Setelah login, pengguna dapat melihat dashboard personalisasi yang berisi rekomendasi resep dengan preferensi terbaru, resep favorit, dan riwayat resep.
 
 ## Entity Relation Diagram
