@@ -1,8 +1,8 @@
 # Jin Masak
 
-- Ketua Kelompok: Eduardus Bagus Wicaksono
+- Ketua Kelompok: Eduardus Bagus Wicaksono - 22/493128/TK/53996
 - Anggota 1: Salwa Nayla Adistri - 22/493200/TK/54017
-- Anggota 2: Nabila Puspita Dewi
+- Anggota 2: Nabila Puspita Dewi - 22/493935/TK/54142
 
 ## Project Senior TI
 
@@ -44,3 +44,43 @@ CulinaCraft menggunakan AI dan machine learning untuk memberikan rekomendasi res
 - **Kelebihan**: Database makanan yang luas, pelacakan kalori dan makronutrien yang detail, integrasi dengan perangkat lain.
 - **Kekurangan**: Fokus pada pelacakan kalori daripada edukasi memasak, kurangnya rekomendasi resep.
 - **Keunggulan Kompetitif**: Pelacakan kalori dan nutrisi yang sangat detail, integrasi perangkat kebugaran, komunitas dukungan.
+
+## Metodologi
+Metodologi yang digunakan adalah metodologi agile dengan framework Kanban. Metodologi Agile cocok untuk projek ini karena proses pengembangan projek akan beriterasi dan terus mengalami perubahan pada tiap prosesnya. Agile didukung dengan framework kanban yang berfokus pada visualisasi alur kerja dan pembatasan workload yang sedang berlangsung sehingga progres proyek dapat terpantau secara real-time. Dengan menggunakan kanban pada proyek ini maka pengerjaan proyek dapat lebih fleksibel dikarenakan tim dapat terus mengembangkan dan merilis fitur tanpa perlu menunggu akhir iterasi, mengurangi bottleneck dikarenakan kanban membatasi jumlah tugas pada waktu yang bersamaan, dan memudahkan koordinasi antar anggota tim. 
+
+## Tujuan Produk
+Produk ini bertujuan untuk membantu pengguna dalam hal memasak, seperti mencari resep-resep baru, mempelajari ilmu dasar dalam memasak, memanfaatkan bahan-bahan yang ada di rumah untuk meminimalisir food waste, dan mendampingi pengguna dalam proses memasak dari awal hingga akhir.
+
+## Pengguna Potensial
+- Ibu-ibu rumah tangga: Ibu-ibu rumah tangga membutuhkan ide-ide masakan baru untuk menciptakan variasi menu di rumah dan ibu-ibu rumah tangga juga butuh untuk meningkatkan kemampuan memasak dengan melihat bahan-bahan pendukung atau teknik baru untuk meningkatkan cita rasa makanan.
+- Pemula dalam memasak: Pemula membutuhkan ajaran terkait dasar-dasar memasak dan resep-resep simpel. Pemula umumnya memiliki banyak pertanyaan saat sedang proses memasak sehingga butuh media yang dapat menjawab pertanyaan-pertanyaan tersebut.
+
+## Use Case Diagram
+![alt text](assets/use_case.png)
+
+## Functional Requirements
+### Manajemen Pengguna
+- Pengguna dapat membuat akun baru dengan email dan kata sandi
+- Pengguna dapat login menggunakan email dan kata sandi
+- Pengguna dapat memperbarui profil dan resep favorit
+### Rekomendasi Resep Berbasis AI/ML
+- Pengguna dapat memasukkan bahan-bahan yang tersedia untuk dimasak dan sistem dapat menyimpan input untuk memberikan rekomendasi resep
+- Sistem memberikan rekomendasi resep berdasarkan preferensi, riwayat, dan bahan yang dimiliki pengguna yang didapatkan melalui algoritma AI/ML
+- Pengguna dapat mencari resep berdasarkan kategori dan sistem dapat menampilkan resep yang sesuai
+- Pengguna dapat melihat detail dari suatu resep, seperti bahan-bahan, alat-alat, langkah-langkah, waktu persiapan dan memasak, serta informasi kalori
+### Chatbot AI sebagai Asisten
+- Chatbot AI dapat memberi panduan memasak lebih detail dan menjawab pertanyaan spesifik terkait suatu resep
+### Manajemen Bahan dan Resep
+- Pengguna dapat menyimpan bahan-bahan yang dimiliki untuk memasak sehingga sistem juga dapat memberikan rekomendasi seputar bahan tersebut.
+- Pengguna dapat menyimpan resep favorit untuk dimasak ulang di kemudian hari.
+- Pengguna dapat melihat riwayat pencarian resep yang telah disimpan oleh sistem
+### Dashboard Personalisasi
+- Setelah login, pengguna dapat melihat dashboard personalisasi yang berisi rekomendasi resep dengan preferensi terbaru, resep favorit, dan riwayat resep.
+
+## Entity Relation Diagram
+![alt text](assets/erd.png)
+
+## Low Fidelity Wireframe
+
+## Gantt Chart
+![alt text](assets/gannt_chart.png)
