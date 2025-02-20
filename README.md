@@ -1,4 +1,4 @@
-# Senpro3
+# Jin Masak
 
 - Ketua Kelompok: Eduardus Bagus Wicaksono
 - Anggota 1: Salwa Nayla Adistri - 22/493200/TK/54017
